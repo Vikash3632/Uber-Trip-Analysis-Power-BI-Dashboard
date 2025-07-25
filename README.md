@@ -28,13 +28,13 @@ This Power BI report explores more than **100K Uber bookings** using interactive
 Uber-Trip-Analysis/
 │
 ├── Uber Power BI Report.pbix # Main Power BI dashboard file
+
 ├── Uber Trip Details.xlsx # Ride-level transactional data
+
 ├── Location Table.xlsx # Location ID to name/city mapping
-├── images/
-│ ├── dashboard-overview.png # Overview page screenshot
-│ ├── time-analysis.png # Time analysis visual
-│ └── trip-details.png # Detailed table view
-├── info.PNG # Data dictionary/explanation
+
+├── dashboard-overview.png # Overview page screenshot
+
 └── README.md # This file
 
 ---

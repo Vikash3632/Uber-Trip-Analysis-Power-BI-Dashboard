@@ -26,7 +26,7 @@ This Power BI report explores more than **100K Uber bookings** using interactive
 ## 📁 File Structure
 
 Uber-Trip-Analysis/
-│
+
 ├── Uber Power BI Report.pbix # Main Power BI dashboard file
 
 ├── Uber Trip Details.xlsx # Ride-level transactional data
